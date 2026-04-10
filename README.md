@@ -4,7 +4,6 @@
 
 This project implements a simple command-line tool for hiding and extracting messages in images using **LSB (Least Significant Bit) steganography**.
 The main goal of the project is to provide a **minimal, transparent, and easy-to-understand CLI tool** for steganography, without unnecessary complexity. It focuses on clarity of implementation and correctness of the underlying algorithm.
----
 
 ### How It Works
 
